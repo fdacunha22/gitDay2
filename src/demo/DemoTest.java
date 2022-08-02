@@ -17,4 +17,9 @@ public class DemoTest {
 	public static void divide(int a, int b) {
 		System.out.println(a / b);
 	}
+	
+	//for US678
+	public static void sub(int a, int b){
+		System.out.println(a-b);
+}
 }
